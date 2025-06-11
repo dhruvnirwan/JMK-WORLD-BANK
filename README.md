@@ -13,6 +13,7 @@ From profit analysis to regional transactions and departmental trends, the dashb
 
 📸 Dashboard Screenshot
 📍 Full View of the JMK World Bank Excel Dashboard
+
 ![image](https://github.com/user-attachments/assets/b50f9dd5-018d-4e85-b317-e6d1a33498d1)
 
 📊 Dashboard Highlights
