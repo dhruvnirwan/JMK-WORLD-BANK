@@ -17,6 +17,7 @@ From profit analysis to regional transactions and departmental trends, the dashb
 ![image](https://github.com/user-attachments/assets/b50f9dd5-018d-4e85-b317-e6d1a33498d1)
 
 📊 Dashboard Highlights
+
 🔹 Total Profit by Payment Methods
 Compares profits from Bank Transfer, Cash, Credit Card, and PayPal.
 
@@ -33,6 +34,7 @@ Line chart showing financial trends for HR, Marketing, Operations, R&D, and Sale
 Pie chart comparing average departmental expenses across HR, IT, Finance, Sales, Marketing, and Operations.
 
 🛠️ Tools & Technologies
+
 Microsoft Excel
 
 Charts & Graphs
@@ -44,6 +46,7 @@ Conditional Formatting
 Dashboard Design Best Practices
 
 📌 Use Cases
+
 Financial analysis & reporting
 
 Department-wise budgeting
@@ -51,6 +54,7 @@ Department-wise budgeting
 Strategic decision-making
 
 Presentation-ready reports for stakeholders
+
 Microsoft Excel
 
 Charts & Graphs
@@ -62,6 +66,7 @@ Conditional Formatting
 Dashboard Design Best Practices
 
 📌 Use Cases
+
 Financial analysis & reporting
 
 Department-wise budgeting
